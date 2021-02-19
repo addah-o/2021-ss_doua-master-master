@@ -1,4 +1,6 @@
-# 2021-SS: Digital Organization
+# 2021-WS: Digital Organization
+
+## Hello Git! Hello Github! Hello world
 
 v1.0.0
 
