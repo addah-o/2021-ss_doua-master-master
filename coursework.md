@@ -9,6 +9,9 @@ Coursework
 ---
 
 WHAT — HOW - WHY?
+I don't know
+this way
+because
 
 15-20min / person
 
