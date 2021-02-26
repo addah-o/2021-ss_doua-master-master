@@ -10,3 +10,11 @@
 > Best quote ever.
 
 Note: speaker notes FTW!
+
+---
+
+### Third slide
+
+> Best slide ever seen.
+
+Note: Slides are fantastic!
