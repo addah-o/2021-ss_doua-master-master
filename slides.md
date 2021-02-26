@@ -18,3 +18,11 @@ Note: speaker notes FTW!
 > Best slide ever seen.
 
 Note: Slides are fantastic!
+
+---
+
+#### Fourth slide
+
+> Slide created from cloned repository.
+
+Note: Clones are fantastic!
