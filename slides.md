@@ -1,4 +1,25 @@
-# First slide
+# 2021-WS: Digital Organization
+
+## Hello Git! Hello Github! Hello world
+
+v1.0.0
+
+< "Experience rather that watch!"
+
+<
+
+< - Addah Opundo
+
+---
+## Innovation
+
+---
+
+## Adventure
+
+---
+
+## First slide
 
 - Point 1
 - Point 2
